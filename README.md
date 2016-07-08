@@ -16,45 +16,41 @@
 		   
 		   
 + Check that everything is OK
-
-`adb devices`
-
-should show your shield is connected
+  `adb devices`
+  should show your shield is connected
 
 + Reboot the shield in fastboot mode
-
 `adb reboot bootloader`
 
 + Unlock shield's bootloader
-First : 
+First : 	
 	`(sudo) fastboot list devices` should show your shield
 
 Then :
 	`(sudo) fastboot oem unlock`
+
 **BEWARE it can take upto several hours**
 
 + prepare your microSD card : 
 
-`gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=<path to sdcard>`
+	`gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=<path to sdcard>`
 
 for example
 
-`gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=/dev/sdb`
+	`gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=/dev/sdb`
 
 + Put the microSD card in the back of our shield
 
 
 # To boot on linux after installation is complete
 + Go into fastboot mode
-
-`adb reboot bootloader`
+  `adb reboot bootloader`
 
 From a PC connected to your Shield
 
 + Download boot.img from this repository
 + Boot your Shield on linux using boot.img
-
-`sudo fastboot boot boot.img`
+  `sudo fastboot boot boot.img`
  
 
 
