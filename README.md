@@ -8,11 +8,11 @@
 + Install Android command line tools (adb and fastboot)
   +  ubuntu
 
-`$sudo apt-get install android-tools-adb android-tools-fastboot`
+	`$sudo apt-get install android-tools-adb android-tools-fastboot`
 
   + mac
   
-`http://developer.android.com/studio/index.html#mac-tools`
+  `http://developer.android.com/studio/index.html#mac-tools`
 		   
 		   
 + Check that everything is OK
