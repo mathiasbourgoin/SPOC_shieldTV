@@ -54,7 +54,8 @@ From a PC connected to your Shield
 # Useful information 
 + user/passwd are spoc/SPOC
 + opam (OCaml PAckage Manager) is installed :
-`opam list
+```
+opam list
  # Installed packages for 4.02.3:
  base-bigarray            base  Bigarray library distributed with the OCaml compiler
  base-bytes               base  Bytes library distributed with the OCaml compiler
@@ -77,7 +78,8 @@ From a PC connected to your Shield
  ocp-build        1.99.17-beta  Project manager for OCaml
  ocp-indent              1.5.3  A simple tool to indent OCaml programs
  typerex-build    1.99.17-beta  Project manager for OCaml
- yojson                  1.3.2  Yojson is an optimized parsing and printing library for the JSON format`
+ yojson                  1.3.2  Yojson is an optimized parsing and printing library for the JSON format
+```
  
 
 # Thanks
