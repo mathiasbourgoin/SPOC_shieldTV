@@ -32,10 +32,7 @@ Then :
 **BEWARE it can take upto several hours**
 
 + prepare your microSD card : 
-  `gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=<path to sdcard>`
-
-for example
-  `gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=/dev/sdb`
+  Copy the content of the root file system (inside ubuntu14.04_SPOC.tar.bz2)  in the rood directory of your microSD card.
 
 + Put the microSD card in the back of our shield
 
