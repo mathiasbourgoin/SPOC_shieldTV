@@ -1,4 +1,6 @@
-# Préparer la shield
+(Everything has been tested on a Shield android TV PRO (500Gb))
+
+# Prepare your SHIELD ANDROID TV
 + turn on the shield ;) and update it to the last system version (currently Shield Exprience 3.2)
 + Go into Parameters -> About -> click 10 times ont "buil" to activate developer mode
 + In Preferences -> 'Developers options" -> Debugging -> activate "USB Debugging"
