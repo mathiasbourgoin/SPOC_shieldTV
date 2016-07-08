@@ -12,7 +12,7 @@
 
   + mac
   
-  `http://developer.android.com/studio/index.html#mac-tools`
+    `http://developer.android.com/studio/index.html#mac-tools`
 		   
 		   
 + Check that everything is OK
