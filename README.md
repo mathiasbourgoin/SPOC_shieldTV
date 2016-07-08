@@ -10,8 +10,8 @@
 
 `$sudo apt-get install android-tools-adb android-tools-fastboot`
 
-+ mac
-
+  + mac
+  
 `http://developer.android.com/studio/index.html#mac-tools`
 		   
 		   
