@@ -53,6 +53,7 @@ From a PC connected to your Shield
 
 # Useful information 
 + user/passwd are spoc/SPOC
++ CUDA is installed using Linux4Tegra 24.1 64-bit RootFS and Jetpack for L4T 2.2
 + opam (OCaml PAckage Manager) is installed :
 ```
 opam list
