@@ -83,7 +83,7 @@ opam list
  
 
 # Thanks
-+XDA forums and particularly  
++ XDA forums and particularly  
 	+ [Ubuntu Utopic for nvidia shield tv](http://forum.xda-developers.com/shield-tv/general/ubuntu-utopic-nvidia-shield-tv-t3150352/)
 	+ [Build kernel from source and boot to Ubuntu using L4T (Linux for Tegra) rootfs](http://forum.xda-developers.com/shield-tv/general/build-kernel-source-boot-to-ubuntu-t3274632)
 
