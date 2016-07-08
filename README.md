@@ -32,12 +32,10 @@ Then :
 **BEWARE it can take upto several hours**
 
 + prepare your microSD card : 
-
-	`gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=<path to sdcard>`
+  `gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=<path to sdcard>`
 
 for example
-
-	`gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=/dev/sdb`
+  `gunzip ./ubuntu14.04_SPOC.img.gz | sudo dd of=/dev/sdb`
 
 + Put the microSD card in the back of our shield
 
